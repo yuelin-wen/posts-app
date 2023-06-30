@@ -26,10 +26,9 @@ const CreatePrompt = () => {
           tag: post.tag,
         }),
       });
-      console.log(response);
+
       if (response.ok) {
         router.push("/");
-        console.log("okokokok");
       }
     } catch (error) {
       console.log(error);
@@ -40,7 +39,7 @@ const CreatePrompt = () => {
 
   return (
     <Form
-      type="Create"
+      type='Create'
       post={post}
       setPost={setPost}
       submitting={submitting}
