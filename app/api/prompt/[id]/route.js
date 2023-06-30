@@ -1,6 +1,6 @@
 
 import { connectToDB } from "@utils/database"
-import Prompt from "@models/prompts"
+import Prompt from "@models/prompt"
 
 // api/prompt/:id
 
