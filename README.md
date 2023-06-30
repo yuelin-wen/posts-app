@@ -1,3 +1,6 @@
+Try to use Google Chrome to Sign in to the service of the app, other browsers may have issues. Since I am using google Providers in this app, thank you XD.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
