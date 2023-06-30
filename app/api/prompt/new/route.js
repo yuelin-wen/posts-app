@@ -1,4 +1,4 @@
-import Prompt from "@models/prompt";
+import Prompt from "@models/prompts";
 import { connectToDB } from "@utils/database";
 
 // /api/prompt/new
