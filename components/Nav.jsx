@@ -31,7 +31,7 @@ const Nav = () => {
           height={30}
           className="object-contain"
         />
-        <p className="logo_text">Promptpia</p>
+        <p className="logo_text">Post App</p>
       </Link>
 
 
